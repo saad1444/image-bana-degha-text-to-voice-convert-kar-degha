@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gemini 2.5 Omni-Suite",
+  "description": "A comprehensive demonstration of Google's Gemini 2.5 Flash capabilities, including Multimodal Chat, Image Generation, and Text-to-Speech.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
